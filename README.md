@@ -20,7 +20,7 @@ DP，加一维表示是否连续
 建边权为1的图，跑bfs或spfa即可
 
 ## G - Mike and Chocolate Thieves
-函数f(x) = N/2^3 + N/3^3 + N/4^3 + N/5^3 + ...
+函数f(N) = N/2^3 + N/3^3 + N/4^3 + N/5^3 + ...
 显然有单调性，二分即可
 
 ## H - Friends and Subsequences
